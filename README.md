@@ -78,7 +78,7 @@
 </ul>
 </details>
 
-<details>
+<details  open>
 <summary><strong>🏝️ 海岛旅游订单系统 (毕业设计)</strong></summary>
 <br/>
 <ul>
@@ -95,7 +95,7 @@
 </ul>
 </details>
 
-<details>
+<details  open>
 <summary><strong>🔍 基于Scrapy的分布式搜索引擎 (综合课设)</strong></summary>
 <br/>
 <ul>
@@ -117,7 +117,7 @@
 ## 🏆 荣誉奖项 (Honors & Awards)
 
 *   🥇 国家奖学金 (National Scholarship) - 2024.10
-*   🌟 重庆市优秀毕业生 (Outstanding Graduate of Chongqing) - 2025.04 (预计)
+*   🌟 重庆市优秀毕业生 (Outstanding Graduate of Chongqing) - 2025.04
 *   🥈 全国大学生数据统计与分析竞赛 全国二等奖 - 2023.07
 *   🏅 全国算法精英大赛 全国总决赛入围奖 - 2023.07
 *   🥉 团体程序设计天梯赛 全国总决赛三等奖 - 2023.05
@@ -138,8 +138,6 @@
 ## 📫 如何找到我 (Connect With Me)
 
 *   📧 **Email:** [hemin@stu.cqut.edu.cn](mailto:hemin@stu.cqut.edu.cn)
-*   🔗 **LinkedIn:** [你的LinkedIn主页链接 (可选)] <!-- 替换成你的LinkedIn链接 -->
-*   <!-- 也可以添加其他社交媒体链接，例如博客、知乎等 -->
 
 > 欢迎交流技术，探讨AI的无限可能，期待与优秀的团队碰撞出创新的火花！ ✨
 
