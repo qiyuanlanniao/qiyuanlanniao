@@ -111,7 +111,7 @@
 <details  open>
 <summary><strong>🔍 基于Scrapy的分布式搜索引擎 (综合课设)</strong></summary>
 <br/>
-[[GitHub Repo Link](https://github.com/qiyuanlanniao/search_engine)](https://github.com/qiyuanlanniao/search_engine)
+[GitHub Repo Link](https://github.com/qiyuanlanniao/search_engine)
 <ul>
   <li><strong>项目概述:</strong> 独立开发了一款集数据采集、处理、索引、检索与智能推荐于一体的高性能新闻搜索引擎。</li>
   <li><strong>核心贡献与亮点:</strong>
