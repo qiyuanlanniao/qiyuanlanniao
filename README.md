@@ -10,7 +10,7 @@
 我致力于通过代码构建智能、高效的解决方案，将前沿AI技术落地于实际应用。
 目前就读于**重庆理工大学计算机科学与技术专业** (2025年6月毕业)，在校期间：
 *   **GPA: 3.9/5.0**，专业排名**前1%**。
-*   发表EI收录论文一篇：**He, M. (2025). A Review of Data Fusion and Deep Learning Models for Multimodal Sentiment Analysis.** (DOI: 10.5220/0013189700004568)
+*   发表ECAI论文一篇：**He, M. (2025). A Review of Data Fusion and Deep Learning Models for Multimodal Sentiment Analysis.** (DOI: 10.5220/0013189700004568)
 
 ---
 
