@@ -81,13 +81,13 @@
   <li><strong>项目概述:</strong> 主导设计与开发一款多功能AI Agent应用，深度集成大语言模型 (LLM)、知识库 (RAG)、自动化工具调度、持久化记忆系统及情绪感知能力，实现面向特定场景的智能对话、任务执行与语音交互。</li>
   <li><strong>核心贡献与亮点:</strong>
     <ul>
-      <li>**主导架构设计与LLM核心逻辑:** 负责需求分析、技术选型，基于LangChain框架实现LLM驱动的决策引擎、意图识别与任务拆解。</li>
-      <li>**构建RAG知识增强与动态工具调度:** 独立开发RAG模块，优化语义检索，实现基于LangChain ToolKit的动态工具调用，赋能Agent自主执行复杂任务。</li>
-      <li>**高级交互与持久化记忆:** 设计并实现多轮对话记忆系统 (LangChain Memory) 与情绪感知探索；通过FastAPI构建标准化API，集成语音合成 (SpeechSDK) 与Telegram Bot。</li>
-      <li>**LLM工程化与难题攻坚:** 主导Docker部署与Langsmith监控，解决自定义工具集成、记忆持久化、多工具参数校验等关键技术难题。</li>
+      <li>主导架构设计与LLM核心逻辑: 负责需求分析、技术选型，基于LangChain框架实现LLM驱动的决策引擎、意图识别与任务拆解。</li>
+      <li>构建RAG知识增强与动态工具调度: 独立开发RAG模块，优化语义检索，实现基于LangChain ToolKit的动态工具调用，赋能Agent自主执行复杂任务。</li>
+      <li>高级交互与持久化记忆: 设计并实现多轮对话记忆系统 (LangChain Memory) 与情绪感知探索；通过FastAPI构建标准化API，集成语音合成 (SpeechSDK) 与Telegram Bot。</li>
+      <li>LLM工程化与难题攻坚: 主导Docker部署与Langsmith监控，解决自定义工具集成、记忆持久化、多工具参数校验等关键技术难题。</li>
     </ul>
   </li>
-  <li>**核心技术栈:** Python, LangChain, RAG, FastAPI, Qdrant (Vector DB), Telebot, SpeechSDK, Docker, Langsmith</li>
+  <li>核心技术栈:Python, LangChain, RAG, FastAPI, Qdrant (Vector DB), Telebot, SpeechSDK, Docker, Langsmith</li>
 </ul>
 </details>
 
@@ -99,9 +99,9 @@
   <li><strong>项目概述:</strong> 独立开发全栈式海岛旅游订单系统，包含面向用户的微信小程序和面向管理员的后台管理系统，旨在通过数字化手段优化海岛旅游预订体验，并为管理者提供高效的数据分析与运营工具。</li>
   <li><strong>核心贡献与亮点:</strong>
     <ul>
-      <li>**高效后端服务:** 设计并实现了基于Flask的符合MVC模式原则的分层后端架构，提供稳定、高性能的RESTful API服务。</li>
-      <li>**复杂交易流程处理:** 精心设计订单创建、与微信支付的无缝集成 (统一下单、异步回调)，并通过**数据库悲观锁**有效解决了高并发下的超卖问题，保障数据一致性。</li>
-      <li>**智能化前端体验:** 构建微信小程序前端，实现授权登录、商品浏览/搜索 (上拉加载分页)、购物车管理、订单提交与支付调用；初步集成**用户偏好标签与Multi-Armed Bandit模型**，实现本地化互动式推荐。</li>
+      <li>高效后端服务: 设计并实现了基于Flask的符合MVC模式原则的分层后端架构，提供稳定、高性能的RESTful API服务。</li>
+      <li>复杂交易流程处理: 精心设计订单创建、与微信支付的无缝集成 (统一下单、异步回调)，并通过数据库悲观锁有效解决了高并发下的超卖问题，保障数据一致性。</li>
+      <li>智能化前端体验: 构建微信小程序前端，实现授权登录、商品浏览/搜索 (上拉加载分页)、购物车管理、订单提交与支付调用；初步集成用户偏好标签与Multi-Armed Bandit模型，实现本地化互动式推荐。</li>
     </ul>
   </li>
   <li><strong>核心技术栈:</strong> Python Flask, SQLAlchemy, MySQL, RESTful APIs, HTML, CSS, JS, WXML, WXSS</li>
@@ -116,10 +116,10 @@
   <li><strong>项目概述:</strong> 独立开发了一款集数据采集、处理、索引、检索与智能推荐于一体的高性能新闻搜索引擎。</li>
   <li><strong>核心贡献与亮点:</strong>
     <ul>
-      <li>**分布式爬虫与反爬攻克:** 优化Scrapy分布式爬虫架构，集成Selenium成功攻克动态加载与模拟登录反爬难题，实现逾**10000篇新闻（万页/分钟）**的高效采集。</li>
-      <li>**高性能检索:** 利用Elasticsearch构建强大的倒排索引及检索服务 (自定义IK Analyzer分词器)，实现**毫秒级全文检索、结果高亮与纠错提示**。</li>
-      <li>**智能搜索体验:** 基于Django框架搭建前后端应用，前端集成实时搜索建议 (ES Suggest)、热门搜索排行 (Redis Sorted Set) 及本地搜索历史，极大提升用户搜索体验。</li>
-      <li>**自动化部署与监控:** 利用Scrapyd实现爬虫自动化部署与调度，并结合Kibana进行数据及系统性能的可视化监控。</li>
+      <li>分布式爬虫与反爬攻克: 优化Scrapy分布式爬虫架构，集成Selenium成功攻克动态加载与模拟登录反爬难题，实现逾10000篇新闻（万页/分钟）的高效采集。</li>
+      <li>高性能检索: 利用Elasticsearch构建强大的倒排索引及检索服务 (自定义IK Analyzer分词器)，实现毫秒级全文检索、结果高亮与纠错提示。</li>
+      <li>智能搜索体验: 基于Django框架搭建前后端应用，前端集成实时搜索建议 (ES Suggest)、热门搜索排行 (Redis Sorted Set) 及本地搜索历史，极大提升用户搜索体验。</li>
+      <li>自动化部署与监控: 利用Scrapyd实现爬虫自动化部署与调度，并结合Kibana进行数据及系统性能的可视化监控。</li>
     </ul>
   </li>
   <li><strong>核心技术栈:</strong> Python, Django, Scrapy, Elasticsearch (DSL, IK Analyzer), Redis, HTML5, CSS3, JavaScript, Selenium</li>
@@ -129,14 +129,14 @@
 <details>
 <summary><strong>📝 面向篇章级文本的突发事件摘要生成 (CCKS2024评测)</strong></summary>
 <br/>
-<!-- **建议在此处添加项目的GitHub仓库链接：[GitHub Repo Link](https://github.com/qiyuanlanniao/your-summarization-repo)** -->
+**[GitHub Repo Link]([https://github.com/qiyuanlanniao/your-summarization-repo](https://github.com/qiyuanlanniao/abstract_tianchi))** 
 <ul>
   <li><strong>项目概述:</strong> 独立设计并开发了CCKS2024突发事件摘要生成系统，旨在从篇章级新闻报道中高效、准确地自动化生成突发事件摘要。</li>
   <li><strong>核心贡献与亮点:</strong>
     <ul>
-      <li>**模型搭建与优化:** 基于Transformer的Encoder-Decoder架构 (BART, Pegasus)，搭建并实现核心摘要模型，并针对Bart模型进行领域特定预训练优化，增强语义理解。</li>
-      <li>**性能突破:** 显著优化预测代码 (predict.py)，将模型推理时延从**1小时降低至10分钟**，大幅提升系统响应速度。</li>
-      <li>**数据预处理与评估:** 负责开发数据格式处理脚本，为模型训练提供高质量数据；集成并应用ROUGE等自动评估指标，在CCKS2024评测中位列**榜单前列 (排名第8)**。</li>
+      <li>模型搭建与优化: 基于Transformer的Encoder-Decoder架构 (BART, Pegasus)，搭建并实现核心摘要模型，并针对Bart模型进行领域特定预训练优化，增强语义理解。</li>
+      <li>性能突破: 显著优化预测代码 (predict.py)，将模型推理时延从1小时降低至10分钟，大幅提升系统响应速度。</li>
+      <li>数据预处理与评估: 负责开发数据格式处理脚本，为模型训练提供高质量数据；集成并应用ROUGE等自动评估指标，在CCKS2024评测中位列**榜单前列 (排名第8)**。</li>
     </ul>
   </li>
   <li><strong>核心技术栈:</strong> PyTorch, Hugging Face Transformers (BART, Pegasus), NLP, 深度学习, ROUGE-L</li>
