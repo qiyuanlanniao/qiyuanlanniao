@@ -76,7 +76,7 @@
 <details open>
 <summary><strong>🤖 AI Agent 智能应用开发</strong></summary>
 <br/>
-<!-- **建议在此处添加项目的GitHub仓库链接：[GitHub Repo Link](https://github.com/qiyuanlanniao/your-ai-agent-repo)** -->
+[GitHub Repo Link](https://github.com/qiyuanlanniao/AI_Agent)
 <ul>
   <li><strong>项目概述:</strong> 主导设计与开发一款多功能AI Agent应用，深度集成大语言模型 (LLM)、知识库 (RAG)、自动化工具调度、持久化记忆系统及情绪感知能力，实现面向特定场景的智能对话、任务执行与语音交互。</li>
   <li><strong>核心贡献与亮点:</strong>
@@ -94,7 +94,7 @@
 <details  open>
 <summary><strong>🏝️ 海岛旅游订单系统 (毕业设计)</strong></summary>
 <br/>
-<!-- **建议在此处添加项目的GitHub仓库链接：[GitHub Repo Link](https://github.com/qiyuanlanniao/your-tourism-system-repo)** -->
+[GitHub Repo Link](https://github.com/qiyuanlanniao/syh)
 <ul>
   <li><strong>项目概述:</strong> 独立开发全栈式海岛旅游订单系统，包含面向用户的微信小程序和面向管理员的后台管理系统，旨在通过数字化手段优化海岛旅游预订体验，并为管理者提供高效的数据分析与运营工具。</li>
   <li><strong>核心贡献与亮点:</strong>
@@ -111,7 +111,7 @@
 <details  open>
 <summary><strong>🔍 基于Scrapy的分布式搜索引擎 (综合课设)</strong></summary>
 <br/>
-<!-- **建议在此处添加项目的GitHub仓库链接：[GitHub Repo Link](https://github.com/qiyuanlanniao/your-search-engine-repo)** -->
+[GitHub Repo Link](https://github.com/qiyuanlanniao/search_engine)
 <ul>
   <li><strong>项目概述:</strong> 独立开发了一款集数据采集、处理、索引、检索与智能推荐于一体的高性能新闻搜索引擎。</li>
   <li><strong>核心贡献与亮点:</strong>
@@ -126,10 +126,10 @@
 </ul>
 </details>
 
-<details>
+<details  open>
 <summary><strong>📝 面向篇章级文本的突发事件摘要生成 (CCKS2024评测)</strong></summary>
 <br/>
-**[GitHub Repo Link]([https://github.com/qiyuanlanniao/your-summarization-repo](https://github.com/qiyuanlanniao/abstract_tianchi))** 
+[GitHub Repo Link](https://github.com/qiyuanlanniao/abstract_tianchi)
 <ul>
   <li><strong>项目概述:</strong> 独立设计并开发了CCKS2024突发事件摘要生成系统，旨在从篇章级新闻报道中高效、准确地自动化生成突发事件摘要。</li>
   <li><strong>核心贡献与亮点:</strong>
