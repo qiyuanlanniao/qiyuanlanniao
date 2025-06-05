@@ -111,7 +111,7 @@
 <details  open>
 <summary><strong>🔍 基于Scrapy的分布式搜索引擎 (综合课设)</strong></summary>
 <br/>
-[GitHub Repo Link](https://github.com/qiyuanlanniao/search_engine)
+[[GitHub Repo Link](https://github.com/qiyuanlanniao/search_engine)](https://github.com/qiyuanlanniao/search_engine)
 <ul>
   <li><strong>项目概述:</strong> 独立开发了一款集数据采集、处理、索引、检索与智能推荐于一体的高性能新闻搜索引擎。</li>
   <li><strong>核心贡献与亮点:</strong>
@@ -136,7 +136,7 @@
     <ul>
       <li>模型搭建与优化: 基于Transformer的Encoder-Decoder架构 (BART, Pegasus)，搭建并实现核心摘要模型，并针对Bart模型进行领域特定预训练优化，增强语义理解。</li>
       <li>性能突破: 显著优化预测代码 (predict.py)，将模型推理时延从1小时降低至10分钟，大幅提升系统响应速度。</li>
-      <li>数据预处理与评估: 负责开发数据格式处理脚本，为模型训练提供高质量数据；集成并应用ROUGE等自动评估指标，在CCKS2024评测中位列**榜单前列 (排名第8)**。</li>
+      <li>数据预处理与评估: 负责开发数据格式处理脚本，为模型训练提供高质量数据；集成并应用ROUGE等自动评估指标，在CCKS2024评测中位列榜单前列 (排名第8)。</li>
     </ul>
   </li>
   <li><strong>核心技术栈:</strong> PyTorch, Hugging Face Transformers (BART, Pegasus), NLP, 深度学习, ROUGE-L</li>
